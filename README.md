@@ -1,2 +1,2 @@
-# Prediction-using-Supervised-ML
-Predict the percentage of an student based on the no. of study hours. 
+# Exploratory-Data-Analysis---Terrorism
+Dataset:https://bit.ly/2TK5Xn5
